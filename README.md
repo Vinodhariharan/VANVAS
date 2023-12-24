@@ -10,8 +10,8 @@ Vanvas is an Attendance Management System implemented in Python using the Tkinte
  - mysql-connector
 
 ### Files
-  vanvas.py: The main Python script containing the implementation of the Vanvas Attendance Management System.
-  vanvasMySQLdumps.sql: A MySQL dump file containing the database schema and sample data.
+ - vanvas.py: The main Python script containing the implementation of the Vanvas Attendance Management System.
+ - vanvasMySQLdumps.sql: A MySQL dump file containing the database schema and sample data.
   
 ## Installation
 - Install Python: Python Downloads
